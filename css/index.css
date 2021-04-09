@@ -137,11 +137,15 @@ body .container{
 }
 
 /* About page */
-.firstsection .top{
-    margin-bottom: 20px;
+.container .dash{
+    margin: 4% 0;
     border-bottom: 1px dashed black;   
+
 }
 
+.bottom{
+    margin-bottom: 20px;  
+}
 .secondsection{
     display: flex;
     justify-content: space-between;
@@ -169,6 +173,9 @@ body .container{
 .secondsection .right{
     margin-bottom: 20px;
 } 
+.container .space{
+    margin: 4% 0;
+}
 
 button{
     width: 30%;
